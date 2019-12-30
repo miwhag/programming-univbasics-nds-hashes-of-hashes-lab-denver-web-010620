@@ -37,8 +37,9 @@ def naming_system
         :order => {}
       } 
     }
+    puts naming_system
   }
-  puts naming_system
+
   
   # Remember:
   #  Kingdom
