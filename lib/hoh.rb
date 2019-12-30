@@ -37,9 +37,10 @@ def naming_system
         :order => {}
       } 
     }
-    puts naming_system
   }
 end
+
+puts naming_system
 
   
   # Remember:
