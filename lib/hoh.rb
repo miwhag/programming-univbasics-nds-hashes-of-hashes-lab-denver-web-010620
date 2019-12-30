@@ -31,11 +31,13 @@
 # }
 
 def naming_system
-  kingdom = {
-    :pylum => {
-      :class => {
-        :order => {}
-      } 
+  system = {
+    :Kingdom => {
+      :pylum => {
+        :class => {
+          :order => {}
+        } 
+      }
     }
   }
 end
