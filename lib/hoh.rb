@@ -35,7 +35,7 @@ def naming_system
     :Kingdom => {
       :pylum => {
         :class => {
-          :order => {}
+          "Order" => {}
         } 
       }
     }
