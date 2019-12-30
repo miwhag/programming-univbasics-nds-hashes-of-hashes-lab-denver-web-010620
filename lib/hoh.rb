@@ -31,18 +31,10 @@
 # }
 
 def naming_system
-  system = {
-    :Kingdom => {
-      :pylum => {
-        :class => {
-          :label => {"Order"}
-        } 
-      }
-    }
-  }
+
 end
 
-puts naming_system
+
 
   
   # Remember:
