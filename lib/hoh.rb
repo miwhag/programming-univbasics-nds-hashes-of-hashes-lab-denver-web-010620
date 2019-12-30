@@ -31,6 +31,15 @@
 # }
 
 def naming_system
+  kingdom = {
+    :pylum => {
+      :class => {
+        :order => {}
+      } 
+    }
+  }
+  puts naming_system
+  
   # Remember:
   #  Kingdom
   #  Phylum
